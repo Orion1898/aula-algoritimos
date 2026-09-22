@@ -39,9 +39,4 @@ Detalhes da implementação
 - Complexidade: O(sqrt(n)) no pior caso
 
 Observações
-- Garanta que `javac`/`java` estejam no `PATH` do sistema. No Windows instale o JDK e adicione `C:\Program Files\Java\jdk<versão>\bin` ao `PATH`.
-- Para números maiores que o alcance de `long`, considere adaptar o código para `BigInteger`.
-
-Quer que eu:
-- Adicione testes automatizados simples? (sim/não)
-- Converta para usar `BigInteger`? (sim/não)
+- Garanta que `javac`/`java` estejam no `PATH` do sistema. No Windows instale o JDK e adicione `C:\Program Files\Java\jdk<versão>\bin` ao 
