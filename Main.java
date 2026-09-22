@@ -131,17 +131,17 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        System.out.println("=== Número primo ===");
+        System.out.println("=== Numero primo ===");
         System.out.println("7 -> " + ehPrimo(7));
         System.out.println("12 -> " + ehPrimo(12));
 
-        System.out.println("\n=== Somatório ===");
+        System.out.println("\n=== Somatorio ===");
         int[] valores = {1, 2, 3, 4, 5};
         System.out.println("Soma = " + somatorio(valores));
 
         System.out.println("\n=== Fibonacci ===");
         System.out.println("Fibonacci(8) = " + fibonacci(8));
-        System.out.println("Sequência até 10 = " + Arrays.toString(fibonacciSequencia(10)));
+        System.out.println("Sequencia ate 10 = " + Arrays.toString(fibonacciSequencia(10)));
 
         System.out.println("\n=== MDC ===");
         System.out.println("MDC(48, 18) = " + mdc(48, 18));
