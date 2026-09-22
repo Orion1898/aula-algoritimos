@@ -37,6 +37,3 @@ Detalhes da implementação
   - pares (>2) -> não primo
   - testa divisores ímpares até `i <= n / i` (equivalente a `i*i <= n`) para evitar overflow
 - Complexidade: O(sqrt(n)) no pior caso
-
-Observações
-- Garanta que `javac`/`java` estejam no `PATH` do sistema. No Windows instale o JDK e adicione `C:\Program Files\Java\jdk<versão>\bin` ao 
